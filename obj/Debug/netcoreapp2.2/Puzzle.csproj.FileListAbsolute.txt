@@ -1,0 +1,11 @@
+C:\Users\TylerN\Coding\Puzzle\bin\Debug\netcoreapp2.2\Puzzle.deps.json
+C:\Users\TylerN\Coding\Puzzle\bin\Debug\netcoreapp2.2\Puzzle.runtimeconfig.json
+C:\Users\TylerN\Coding\Puzzle\bin\Debug\netcoreapp2.2\Puzzle.runtimeconfig.dev.json
+C:\Users\TylerN\Coding\Puzzle\bin\Debug\netcoreapp2.2\Puzzle.dll
+C:\Users\TylerN\Coding\Puzzle\bin\Debug\netcoreapp2.2\Puzzle.pdb
+C:\Users\TylerN\Coding\Puzzle\obj\Debug\netcoreapp2.2\Puzzle.csprojAssemblyReference.cache
+C:\Users\TylerN\Coding\Puzzle\obj\Debug\netcoreapp2.2\Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\TylerN\Coding\Puzzle\obj\Debug\netcoreapp2.2\Puzzle.AssemblyInfoInputs.cache
+C:\Users\TylerN\Coding\Puzzle\obj\Debug\netcoreapp2.2\Puzzle.AssemblyInfo.cs
+C:\Users\TylerN\Coding\Puzzle\obj\Debug\netcoreapp2.2\Puzzle.dll
+C:\Users\TylerN\Coding\Puzzle\obj\Debug\netcoreapp2.2\Puzzle.pdb
